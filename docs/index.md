@@ -38,11 +38,3 @@ It is intended for production managers, product owners, and test engineers.
 
 -   :material-school:{ .lg .middle } __Knowledge base__ is a library of tips and articles that answer your questions about StandCloud platform.
 
-</div>
-
-
-<div class="hp-testimonials" markdown>
-
-[Get started](getting_started.md){ .md-button }
-
-</div>
