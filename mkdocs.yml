@@ -52,7 +52,12 @@ theme:
 
 nav:
   - Home: index.md
-  - Get started: get_started.md
+  - Get started: 
+      - get_started/index.md
+  - Analyze:
+      - analyze/index.md
+  - Knowledge base:
+      - knowledge_base/index.md
 
 markdown_extensions:
   - footnotes
