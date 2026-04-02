@@ -33,8 +33,11 @@ It is intended for production managers, product owners, and test engineers.
 
 -   :material-cloud-upload:{ .lg .middle } __Analyze__ your production data!
     
-    Monitor production as if you were right there on the floor. 
+    Monitor production as if you were right there on the floor.
     Gain insights into the most common failures, batch release times, and issues with specific devices.
 
--   :material-school:{ .lg .middle } __Knowledge base__ is a library of tips and articles that answer your questions about StandCloud platform.
+-   :material-school:{ .lg .middle } __Knowledge base__ 
 
+    Is a library of tips and articles that answer your questions about StandCloud platform.
+
+</div>

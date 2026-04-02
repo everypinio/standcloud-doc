@@ -53,9 +53,14 @@ theme:
 nav:
   - Home: index.md
   - Get started: 
-      - get_started/index.md
-  - Analyze:
-      - analyze/index.md
+      - Get started: get_started/index.md
+  - Analysis:
+      - Analysis: analysis/index.md
+      - Global Production Dashboard: analysis/home.md
+      - Detailed Test Traceability: analysis/test_run.md
+      - Test Stand Infrastructure: analysis/test_stands.md
+  - API Reference: 
+      - API Reference: api/index.md
   - Knowledge base:
       - knowledge_base/index.md
 
