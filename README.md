@@ -1,3 +1,11 @@
+# StandCloud Documentation
+
+This repository contains the source files for the [StandCloud](https://standcloud.everypin.io/) project documentation. 
+We use [MkDocs](https://www.mkdocs.org/) with the 
+[Material](https://squidfunk.github.io/mkdocs-material/) theme to build and serve our docs.
+
+Follow the instructions below to set up your local development environment and preview changes in real-time.
+
 <div align="center">
 
 [![Documentation](https://img.shields.io/badge/Documentation%20-Overview%20-%20%23007ec6)](https://everypinio.github.io/standcloud-doc/)
@@ -5,14 +13,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/everypin)
 
 </div>
-
----
-
-# StandCloud Documentation
-
-This repository contains the source files for the **StandCloud** project documentation. We use [MkDocs](https://www.mkdocs.org/) with the Material theme to build and serve our docs.
-
-Follow the instructions below to set up your local development environment and preview changes in real-time.
 
 ---
 
