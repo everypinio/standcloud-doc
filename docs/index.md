@@ -8,6 +8,7 @@ hide:
 
 StandCloud is a cloud-based platform designed for collecting, storing, and analyzing manufacturing data. 
 It is intended for production managers, product owners, and test engineers.
+Find out more about our electronics testing products at [everypin.io](https://everypin.io/).
 
 <div class="grid cards" markdown>
 
